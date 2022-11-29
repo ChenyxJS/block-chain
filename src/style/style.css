@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html{
+  font-size: 50px;
+}
+a{
+  text-decoration: none;
+}
+ul,li{
+  list-style: none;
+}
+select{
+  outline: none;
+  background-color: transparent;
+  border: 0;
+  color: #fff;
+}
+button{
+  outline: none;
+  border: 0;
+}
+.clear{
+  clear: both;
+}
