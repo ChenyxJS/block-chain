@@ -1,3 +1,10 @@
+<!--
+ * @Author: chenyx
+ * @Date: 2022-11-29 15:48:18
+ * @LastEditors: Do not edit
+ * @LastEditTime: 2022-12-05 01:49:05
+ * @FilePath: /block-chain/src/views/index/index.vue
+-->
 <template>
   <!-- 首页容器 -->
   <div class="containner">

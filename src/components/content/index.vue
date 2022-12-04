@@ -104,6 +104,7 @@ export default defineComponent({
     justify-content: center;
     align-items: center;
     .card {
+      font-size: 18px;
       padding: 12px 0 18px 17px;
       background: #fff;
       margin-left: 20px;
